@@ -13,11 +13,10 @@ const GradientBanner = () => {
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="text-center text-white px-4">
               <h2 className="text-3xl md:text-5xl font-bold mb-4">
-                I'm a PhD researcher and blooming excellent developer
+               Computer Science graduate and full-stack developer.
               </h2>
               <p className="text-lg md:text-xl max-w-3xl mx-auto">
-                Dedicated to make impactful contributions through innovative research 
-                and high-quality software products
+                committed to creating impactful solutions through research-driven innovation and high-quality software engineering.
               </p>
             </div>
           </div>
